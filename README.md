@@ -1,2 +1,4 @@
 # hello-world
-Mi primer repositorio
+Este es mi primer repositorio
+Estudiante de ingeniería electrónica
+Interesado en aprender más sobre lenguajes de programación, en particular JavaScript
